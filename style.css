@@ -1,0 +1,35 @@
+
+.desc
+{
+    margin-bottom: 20px;
+}
+
+.desc p
+{
+    font-style: italic;
+}
+
+h1
+{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 55px;
+    margin-bottom: 20px;
+}
+
+ul li
+{
+    list-style: none;
+}
+
+ul li a
+{
+    text-decoration: none;
+    margin: 0 2px;
+}
+
+body
+{
+    text-align: center;
+    align-content: center;
+}
